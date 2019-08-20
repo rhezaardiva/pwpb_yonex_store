@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Yonex Store</string>
+    <string name="racket_name">Nama Racket</string>
+    <string name="description">Deskripsi</string>
+    <string name="share">Share</string>
+    <string name="buy">Buy</string>
+    <string name="price">Harga</string>
+
+</resources>
